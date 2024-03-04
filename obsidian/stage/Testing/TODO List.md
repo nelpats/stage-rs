@@ -1,11 +1,11 @@
 
 - [ ] Build a simple content-based filtering recommender system
-	- [ ] Find a dataset
-		- [ ] Explore the dataset
-		- [ ] Extract the characteristics
+	- [x] Find a dataset
+		- [x] Explore the dataset
+		- [x] Extract the characteristics
 	- [ ] Explore different algorithms
 	- [ ] Implement the algorithm
-	- [ ] Test his performance
-		- [ ] At recommending
+	- [x] Test his performance
+		- [x] At recommending
 		- [ ] At resisting poisoning attacks
 	- [ ] Improve RS security
